@@ -1,0 +1,5 @@
+peppers.bmp
+crypto.bmp
+criptata.bmp
+decrypto.bmp
+secret_key.txt
